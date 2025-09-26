@@ -38,8 +38,7 @@
 ---
 
 ## 📊 GitHub Stats  
-
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishant7412&layout=compact&theme=tokyonight)  
 
 ---
