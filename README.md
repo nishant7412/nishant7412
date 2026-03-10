@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nishant Sharma  
 
-💻 **Frontend Developer** with nearly**2 years of industry experience**, building modern, scalable, and user-friendly applications.  
+💻 **Frontend Developer** with nearly **2 years of industry experience**, building modern, scalable, and user-friendly applications.  
 
 ---
 
